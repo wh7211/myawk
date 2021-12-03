@@ -1,6 +1,4 @@
-# myawk
-version1
-
-README.md
+# README.md
+myawk v1
 
 2021-12-03 15:37
